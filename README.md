@@ -1,2 +1,4 @@
-# UTAD_python
-Python code for programming for animation @UTAD
+# UTAD_python & deep learning
+Python tutorials
+Specific for deep learning and LLMs
+
